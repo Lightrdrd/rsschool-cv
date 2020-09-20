@@ -1,5 +1,9 @@
 .wrapper {
     margin: 0 auto;
-    background: red;
+    background: grey;
     width: 1024px;
+}
+
+.user-photo {
+    width: 200px;
 }
